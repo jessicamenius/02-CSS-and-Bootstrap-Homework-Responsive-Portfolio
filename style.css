@@ -15,10 +15,6 @@
     display: flex;
   }
 }
-.col-lg {
-  display: flex;
-  flex-direction: row-reverse;
-}
 
 main {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
