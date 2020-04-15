@@ -1,25 +1,24 @@
-@media screen and (min-width: 600px) {
-  header {
-    padding: 20px;
-    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-      "Lucida Sans", Arial, sans-serif;
-  }
+header {
+  padding: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
 
-  header h1 {
-    display: inline-block;
-    font-size: 48px;
-  }
+header h1 {
+  display: inline-block;
+  font-size: 48px;
+}
 
-  .col {
-    width: 100%;
-    display: flex;
-  }
+.col {
+  width: 100%;
+  display: flex;
 }
 
 main {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
+
 footer {
   position: fixed;
   left: 0;
@@ -32,5 +31,4 @@ footer {
   display: block;
   margin: 10px auto;
   max-width: 150px;
-}
 }
