@@ -27,3 +27,10 @@ footer {
   width: 100%;
   text-align: right;
 }
+
+.picture {
+  display: block;
+  margin: 10px auto;
+  max-width: 150px;
+}
+}
